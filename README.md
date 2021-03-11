@@ -3,6 +3,9 @@
 
 > **:warning::warning: ANNOUNCEMENT :warning::warning:**
 
+For Information Liblary I have an Account github : https://github.com/Midtrans/Midtrans-Codeigniter
+For Tutorial Video I have an Youtube Channel : https://www.youtube.com/watch?v=IHkQSZbEB6U
+
 **Please use the updated and composer compatible library: [Midtrans PHP](https://github.com/Midtrans/midtrans-php).
 For better more modern composer compatibility.**
 
